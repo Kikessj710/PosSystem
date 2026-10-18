@@ -1,0 +1,15 @@
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\bin\Debug\net10.0\PosSystem.Application.deps.json
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\bin\Debug\net10.0\PosSystem.Application.dll
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\bin\Debug\net10.0\PosSystem.Application.pdb
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\bin\Debug\net10.0\PosSystem.Domain.dll
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\bin\Debug\net10.0\PosSystem.Domain.pdb
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\PosSystem.Application.csproj.AssemblyReference.cache
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\PosSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\PosSystem.Application.AssemblyInfoInputs.cache
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\PosSystem.Application.AssemblyInfo.cs
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\PosSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\PosSyste.235232F9.Up2Date
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\PosSystem.Application.dll
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\refint\PosSystem.Application.dll
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\PosSystem.Application.pdb
+C:\Users\enriq\source\repos\PosSystem\PosSystem.Application\obj\Debug\net10.0\ref\PosSystem.Application.dll

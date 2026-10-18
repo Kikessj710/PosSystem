@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enriq\\source\\repos\\PosSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\wwwroot\\pos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\wwwroot\\pos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\wwwroot\\consultar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\wwwroot\\consultar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\wwwroot\\consultar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\wwwroot\\consultar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\controllers\\salesorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\controllers\\salesorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1270FFE6-9D68-E068-1A72-0227D95437A4}|PosSystem.Infrastructure\\PosSystem.Infrastructure.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystem.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1270FFE6-9D68-E068-1A72-0227D95437A4}|PosSystem.Infrastructure\\PosSystem.Infrastructure.csproj|solutionrelative:possystem.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1270FFE6-9D68-E068-1A72-0227D95437A4}|PosSystem.Infrastructure\\PosSystem.Infrastructure.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystem.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1270FFE6-9D68-E068-1A72-0227D95437A4}|PosSystem.Infrastructure\\PosSystem.Infrastructure.csproj|solutionrelative:possystem.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystem.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|solutionrelative:possystem.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystem.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|solutionrelative:possystem.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystem.domain\\entities\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|solutionrelative:possystem.domain\\entities\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystem.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|solutionrelative:possystem.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystem.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|solutionrelative:possystem.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\possystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\possystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystemapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1E92D7-A9B5-1ADF-9CCF-245B080F64B7}|PosSystemAPI\\PosSystemAPI.csproj|solutionrelative:possystemapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|c:\\users\\enriq\\source\\repos\\possystem\\possystem.domain\\possystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F72FAE95-C76D-EED1-BAFF-7A04CFB5298B}|PosSystem.Domain\\PosSystem.Domain.csproj|solutionrelative:possystem.domain\\possystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\Controllers\\SalesOrdersController.cs",
+              "RelativeDocumentMoniker": "PosSystemAPI\\Controllers\\SalesOrdersController.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\Controllers\\SalesOrdersController.cs",
+              "RelativeToolTip": "PosSystemAPI\\Controllers\\SalesOrdersController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T21:32:20.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pos.js",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\wwwroot\\pos.js",
+              "RelativeDocumentMoniker": "PosSystemAPI\\wwwroot\\pos.js",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\wwwroot\\pos.js",
+              "RelativeToolTip": "PosSystemAPI\\wwwroot\\pos.js",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAswHsBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-09-15T21:12:28.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "consultar.js",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\wwwroot\\consultar.js",
+              "RelativeDocumentMoniker": "PosSystemAPI\\wwwroot\\consultar.js",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\wwwroot\\consultar.js",
+              "RelativeToolTip": "PosSystemAPI\\wwwroot\\consultar.js",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAewHAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-09-15T21:09:36.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "PosSystemAPI\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\wwwroot\\index.html",
+              "RelativeToolTip": "PosSystemAPI\\wwwroot\\index.html",
+              "ViewState": "AgIAABkAAAAAAAAAAAAjwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-09-15T21:04:57.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "PosSystem.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "PosSystem.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:09:04.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "PosSystem.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "PosSystem.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:57:34.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PosSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PosSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:05:06.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PosSystemAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\appsettings.json",
+              "RelativeToolTip": "PosSystemAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-14T04:10:59.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "consultar.html",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\wwwroot\\consultar.html",
+              "RelativeDocumentMoniker": "PosSystemAPI\\wwwroot\\consultar.html",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\wwwroot\\consultar.html",
+              "RelativeToolTip": "PosSystemAPI\\wwwroot\\consultar.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-09-15T21:04:32.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "PosSystem.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "PosSystem.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:12:50.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "PosSystem.Domain\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "PosSystem.Domain\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:14:22.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "PosSystem.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "PosSystem.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:13:30.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesOrder.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Entities\\SalesOrder.cs",
+              "RelativeDocumentMoniker": "PosSystem.Domain\\Entities\\SalesOrder.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\Entities\\SalesOrder.cs",
+              "RelativeToolTip": "PosSystem.Domain\\Entities\\SalesOrder.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:14:45.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PosSystemAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\PosSystemAPI.csproj",
+              "RelativeDocumentMoniker": "PosSystemAPI\\PosSystemAPI.csproj",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\PosSystemAPI.csproj",
+              "RelativeToolTip": "PosSystemAPI\\PosSystemAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-14T14:33:38.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PosSystemAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "PosSystemAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:23:00.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "PosSystemAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "PosSystemAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:43:26.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PosSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystemAPI\\Program.cs",
+              "RelativeToolTip": "PosSystemAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:12:57.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PosSystem.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\PosSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "PosSystem.Domain\\PosSystem.Domain.csproj",
+              "ToolTip": "C:\\Users\\enriq\\source\\repos\\PosSystem\\PosSystem.Domain\\PosSystem.Domain.csproj",
+              "RelativeToolTip": "PosSystem.Domain\\PosSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-14T03:56:30.569Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

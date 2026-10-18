@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultar Facturas - POS System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">⬅ Volver al Punto de Venta</a>
+        </div>
+    </nav>
+
+    <div class="container my-4">
+        <h2 class="mb-4 text-center">Búsqueda y Consulta de Facturas Guardadas</h2>
+
+        <div class="card p-4 shadow-sm mb-4">
+            <div class="row">
+                <div class="col-md-9">
+                    <input type="text" id="searchInput" class="form-control" placeholder="Buscar por número de factura o ID de cliente...">
+                </div>
+                <div class="col-md-3">
+                    <button class="btn btn-primary w-100" onclick="searchInvoices()">🔍 Buscar Factura</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="card p-3 shadow-sm">
+            <h4>Listado de Facturas</h4>
+            <table class="table table-striped mt-2">
+                <thead>
+                    <tr>
+                        <th>N° Factura (ID)</th>
+                        <th>Cliente ID</th>
+                        <th>Fecha</th>
+                        <th>Total</th>
+                        <th>Acción</th>
+                    </tr>
+                </thead>
+                <tbody id="invoicesTableBody">
+                    <tr>
+                        <td colspan="5" class="text-center text-muted">Cargando facturas...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Vinculamos el archivo JS externo para evitar conflictos en el IDE -->
+    <script src="consultar.js"></script>
+</body>
+</html>

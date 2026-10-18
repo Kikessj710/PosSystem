@@ -1,0 +1,8 @@
+C:\Users\enriq\source\repos\PosSystem\PosSystemAPI\wwwroot\consultar.html
+C:\Users\enriq\source\repos\PosSystem\PosSystemAPI\wwwroot\consultar.js
+C:\Users\enriq\source\repos\PosSystem\PosSystemAPI\wwwroot\pos.js
+C:\Users\enriq\source\repos\PosSystem\PosSystemAPI\wwwroot\index.html
+wwwroot\consultar.html
+wwwroot\consultar.js
+wwwroot\index.html
+wwwroot\pos.js
